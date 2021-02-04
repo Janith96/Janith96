@@ -7,7 +7,7 @@ I'm Janith. You can find me on here on [GitHub](https://github.com/Janith96), [F
 - 🌱 I’m currently learning mobile app development with flutter. 
 - Favorite editor: VS Code
 
-[![Twitter](https://img.shields.io/badge/andypiper%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/janith_96) [![LinkedIn](https://img.shields.io/badge/andypiperuk%20-%23FF0000.svg?&style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/janithudayanga/)
+[![Twitter](https://img.shields.io/badge/janith_96.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/janith_96) [![LinkedIn](https://img.shields.io/badge/andypiperuk%20-%23FF0000.svg?&style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/janithudayanga/)
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andypiper&layout=compact" /></div>
 
