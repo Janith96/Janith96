@@ -8,7 +8,7 @@ I'm Janith. You can find me on here on [GitHub](https://github.com/Janith96), [L
 - ⚡ Favorite editor: VS Code
 
 
-[![Twitter](https://img.shields.io/badge/janith_96.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/janith_96) [![LinkedIn](https://img.shields.io/badge/Janith%20Udayanga-%230e76a8?style=flat&logo=linkedin)](https://www.linkedin.com/in/janithudayanga/)
+[![Twitter](https://img.shields.io/badge/Janith_96-%230e76a8?style=flat&logo=twitter)](https://twitter.com/janith_96) [![LinkedIn](https://img.shields.io/badge/Janith%20Udayanga-%230e76a8?style=flat&logo=linkedin)](https://www.linkedin.com/in/janithudayanga/)
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andypiper&layout=compact" /></div>
 
