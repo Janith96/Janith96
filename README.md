@@ -4,7 +4,7 @@ I'm Janith. You can find me on here on [GitHub](https://github.com/Janith96), [L
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on some private projects... when i have time!
-- 🌱 I’m currently learning mobile app development with flutter. 
+- 🌱 Learning mobile app development with flutter. 
 - ⚡ Favorite editor: VS Code
 
 
