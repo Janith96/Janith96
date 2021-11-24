@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Janith. You can find me on here on [GitHub](https://github.com/Janith96), [LinkedIn](https://www.linkedin.com/in/janithudayanga/) or in my room at 127.0.0.1 
+I'm Janith. You can find me on here on [GitHub](https://github.com/Janith96), [LinkedIn](https://www.linkedin.com/in/janithudayanga/) or at 127.0.0.1 
 
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on some private projects... when i have time!
