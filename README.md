@@ -3,7 +3,7 @@
 I'm Janith. You can find me on here on [GitHub](https://github.com/Janith96), [LinkedIn](https://www.linkedin.com/in/janithudayanga/) or at 127.0.0.1 
 
 - 😄 Pronouns: He/Him
-- 🌱 Learning C#, React, ASP.NET 
+- 🌱 Learning C#, Angular, ASP.NET 
 - ⚡ Favorite editor: VS Code
 
 
